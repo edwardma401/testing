@@ -1,8 +1,8 @@
 # testing
 
-Project Title 
-Covid-19 Analysis  
-Team Members
+Project Title <br/>
+Covid-19 Analysis  <br/>
+Team Members<br/>
 Nerojan, Prateek, Jialong, Edward
 Project Description/Outline
 Covid-19 has had a dramatic impact on our lives and resulted in the death of many individuals around the world. We will visualize live updates on deaths, total cases, total confirmed and total recovered.
