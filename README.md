@@ -2,7 +2,7 @@
 
 Project Title : Covid-19 Analysis  <br/>
 <br/>
-Team Members : Nerojan, Prateek, Jialong, Edward
+Team Members : Nerojan, Prateek, Jialong, Edward <br/>
 <br/>
 Project Description/Outline
 <br/>
