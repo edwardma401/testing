@@ -1,10 +1,13 @@
 # testing
 
 Project Title <br/>
+<br/>
 Covid-19 Analysis  <br/>
 Team Members<br/>
 Nerojan, Prateek, Jialong, Edward
+<br/>
 Project Description/Outline
+<br/>
 Covid-19 has had a dramatic impact on our lives and resulted in the death of many individuals around the world. We will visualize live updates on deaths, total cases, total confirmed and total recovered.
 Datasets to Be Used
 https://www.stats.govt.nz/assets/Uploads/Effects-of-COVID-19-on-trade/Effects-of-COVID-19-on-trade-1-February-10-June-2020-provisional/Download-data/Effects-of-COVID-19-on-trade-1-February-10-June-2020-provisional.csv
