@@ -6,7 +6,7 @@ Team Members : Nerojan, Prateek, Jialong, Edward <br/>
 <br/>
 Project Description/Outline
 <br/>
-Covid-19 has had a dramatic impact on our lives and resulted in the death of many individuals around the world. We will visualize live updates on deaths, total cases, total confirmed and total recovered.<br/>
+Covid-19 has had a dramatic impact on our lives and resulted in the death of many individuals around the world. We will visualize live updates on deaths, total cases, total confirmed and total recovered. Anyone who do not have any knowledge in data can grab the fresh information about the COVID 19 all over the globe. <br/>
 <br/>
 Datasets to Be Used<br/>
 https://www.stats.govt.nz/assets/Uploads/Effects-of-COVID-19-on-trade/Effects-of-COVID-19-on-trade-1-February-10-June-2020-provisional/Download-data/Effects-of-COVID-19-on-trade-1-February-10-June-2020-provisional.csv
