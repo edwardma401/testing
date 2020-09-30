@@ -14,7 +14,7 @@ API
 https://rapidapi.com/api-sports/api/covid-193/details
 
 Visualizations/Screenshots:
-![Image of Heatmap](project_work_2_dynamic_visualization/images/wordheatmap.png)
+![Image of Heatmap](project_work_2_dynamic_visualization/images/worldheatmap.png)
 ![SunburstChart](project_work_2_dynamic_visualization/images/trendline.png)
 ![trendline](project_work_2_dynamic_visualization/images/top10.png)
 
