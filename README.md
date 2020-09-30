@@ -15,10 +15,12 @@ https://documenter.getpostman.com/view/10808728/SzS8rjbc
 API
 https://rapidapi.com/api-sports/api/covid-193/details
 
-Visualizations/Screenshots:
+Work Flow <br/>
+<br/>
+![workflow](project_work_2_dynamic_visualization/images/flowchart.png) <br/>
+
+Visualizations/Screenshots: <br/>
+<br/>
 ![Image of Heatmap](project_work_2_dynamic_visualization/images/worldheatmap.png)
 ![SunburstChart](project_work_2_dynamic_visualization/images/trendline.png)
 ![trendline](project_work_2_dynamic_visualization/images/top10.png)
-
-Work Flow
-![workflow](project_work_2_dynamic_visualization/images/flowchart.png)
