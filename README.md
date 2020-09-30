@@ -14,9 +14,9 @@ API
 https://rapidapi.com/api-sports/api/covid-193/details
 
 Visualizations/Screenshots:
-![Image of Heatmap](project_work_2_dynamic_visualization_Shortcut/images/wordheatmap.png)
-![SunburstChart](project_work_2_dynamic_visualization_Shortcut/images/trendline.png)
-![trendline](project_work_2_dynamic_visualization_Shortcut/images/top10.png)
+![Image of Heatmap](project_work_2_dynamic_visualization/images/wordheatmap.png)
+![SunburstChart](project_work_2_dynamic_visualization/images/trendline.png)
+![trendline](project_work_2_dynamic_visualization/images/top10.png)
 
 Work Flow
-![workflow](project_work_2_dynamic_visualization_Shortcut/images/flowchart.png)
+![workflow](project_work_2_dynamic_visualization/images/flowchart.png)
